@@ -13,6 +13,13 @@
     "name": "Boaz Katzir",
     "url": "http://www.facebook.com/boaz.katzir"
   },
-  "default_locale": "en"
-  "fullscreen": "true"
+  types {
+  text/html   html htm shtml;
+  text/css    css;
+  text/xml    xml;
+  application/x-web-app-manifest+json   webapp;
+}
+  "default_locale": "en",
+  "fullscreen": "true",
+  AddType application/x-web-app-manifest+json .webapp
 }
