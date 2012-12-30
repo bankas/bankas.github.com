@@ -1,0 +1,13 @@
+{
+  "name": "Alien Defense",
+  "description": "Alien Defense! protect the earth from the alien enemz and learn geographic!",
+  "launch_path": "/",
+  "icons": {
+    "128": "/Logo.jpg"
+  },
+  "developer": {
+    "name": "Boaz Katzir",
+    "url": "http://www.facebook.com/boaz.katzir"
+  },
+  "default_locale": "en"
+}
