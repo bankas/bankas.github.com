@@ -1,3 +1,4 @@
+Content-Type: application/x-web-app-manifest+json
 {
   "name": "Alien Defense",
   "description": "Alien Defense! protect the earth from the alien enemz and learn geographic!",
@@ -17,7 +18,7 @@
   text/html   html htm shtml;
   text/css    css;
   text/xml    xml;
-  application/x-web-app-manifest+json   webapp;
+
 }
   "default_locale": "en",
   "fullscreen": "true",
