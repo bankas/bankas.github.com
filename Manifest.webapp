@@ -1,26 +1,24 @@
-Content-Type: application/x-web-app-manifest+json
+
 {
+
   "name": "Alien Defense",
   "description": "Alien Defense! protect the earth from the alien enemz and learn geographic!",
   "launch_path": "/",
   "icons": {
-    "128": "/Logo128.jpg"
-	"256": "/Logo256.jpg"
-	"512": "/Logo512.jpg"
-	"64": "/Logo64.jpg"
+    "128": "/Logo128.jpg",
+	"256": "/Logo256.jpg",
+	"512": "/Logo512.jpg",
+	"64": "/Logo64.jpg",
 	"32": "/Logo32.jpg"
   },
   "developer": {
     "name": "Boaz Katzir",
     "url": "http://www.facebook.com/boaz.katzir"
   },
-  types {
-  text/html   html htm shtml;
-  text/css    css;
-  text/xml    xml;
 
-}
+
+
   "default_locale": "en",
-  "fullscreen": "true",
-  AddType application/x-web-app-manifest+json .webapp
+  "fullscreen": "true"
+
 }
